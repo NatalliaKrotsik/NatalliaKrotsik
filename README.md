@@ -2,10 +2,10 @@
 #### My name is Natallia and I am QA Engineer. Here I want to share some web and mobile testing portfolio items gained during my studies.
  ![animation_lk41jxhm_small](https://github.com/NatalliaKrotsik/NatalliaKrotsik/assets/113597526/a740e0b8-ff98-4e55-ad71-23269761b01a)
 ## A Few Quick Facts: <img src="https://media.giphy.com/media/RiykPw9tgdOylwFgUe/giphy.gif" align="right" alt="I looking for a job" width="350" height="320"/>
-* 🌱 I’m currently open to job opportunities as QA Engineer 
-* 😌 Finished functional software testing course
-* 🐈‍⬛ Most of my study cases are available on Github
-* 📙 Check out my [resume](https://drive.google.com/file/d/1YxcaFlwhVH72yLEMlSmp5XTNC08xdftW/view?usp=sharing)
+* 🌱 I’m QA Engineer with automation skills (Python, Pytest, Playwright) 
+* 😌 I've earned [the AWS Certified AI Practitioner certificate](https://www.credly.com/badges/a99f15d1-a655-42c0-ba71-917654d29f72/linked_in?t=tbf7p8)  
+* 🐈‍⬛ Most of my study cases are available on GitHub
+* 📙 Check out my [resume](https://docs.google.com/document/d/1d1wIOHRgKJpPtEY0q8J_T5TPXbeGm-rP3_WAJedPSm4/edit?usp=sharing)
 * 🎹 Random fact about me: I play the piano.
 
 
