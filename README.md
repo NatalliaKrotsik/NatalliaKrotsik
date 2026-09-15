@@ -1,6 +1,7 @@
 # Hey there! 👋
 
-I'm **Natallia**, a **QA Engineer** with several years of experience in software quality assurance, working across **web and mobile applications, APIs, automation, and complex business systems**.
+I'm **Natallia**, a **QA Engineer** with several years of experience in software quality assurance, working across healthcare 🏥, automotive 🚗, real estate analytics 📊 domains and different internal software products. Experienced in testing web applications 🌐, embedded systems ⚙️, and data-driven platforms, with a strong focus on ensuring product quality through manual testing, API validation, database testing, and test automation.
+I enjoy finding defects before users do 🔍, analyzing complex business requirements, and helping teams deliver reliable software with confidence. From exploratory testing and root cause analysis to automation and CI/CD integration, I like being involved throughout the entire development lifecycle 🚀.
 
 Over the years, my GitHub has evolved from a collection of learning exercises into a place where I experiment with testing approaches, automation, developer tools, and AI-powered solutions.
 
