@@ -42,10 +42,4 @@ Some repositories are intentionally small — they're experiments, proof of conc
 * 🏆 I've earned the **AWS Certified AI Practitioner** certification
 * 🎹 Random fact: I play the piano
 
-## 📄 More About Me
-
-You can find my [resume](https://docs.google.com/document/d/1d1wIOHRgKJpPtEY0q8J_T5TPXbeGm-rP3_WAJedPSm4/edit?usp=sharing) for more details about my professional experience.
-
----
-
 ### 💡 Always learning. Always testing. Occasionally breaking things on purpose.
